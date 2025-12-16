@@ -1,1 +1,11 @@
-UNK123
+{
+  "UNK123": {
+    "expire": 1769750398,
+    "userid": Unkpr0_0
+  },
+  "UNKVIP": {
+    "expire": 0,
+    "userid": Unkpr0_0
+  }
+}
+
