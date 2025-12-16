@@ -1,12 +1,14 @@
 {
   "UNK123": {
-    "expire": 1769749200,
-    "userid": null,
-    "hwid": null
-  },
-  "UNKVIP": {
     "expire": 0,
     "userid": null,
-    "hwid": null
+    "hwid": null,
+    "tier": "VIP"
+  },
+  "UNKBASIC": {
+    "expire": 0,
+    "userid": null,
+    "hwid": null,
+    "tier": "FREE"
   }
 }
