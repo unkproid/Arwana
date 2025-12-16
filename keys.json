@@ -5,10 +5,10 @@
     "hwid": null,
     "tier": "VIP"
   },
-  "UNKBASIC": {
+  "UNKVIP": {
     "expire": 0,
     "userid": null,
     "hwid": null,
-    "tier": "FREE"
+    "tier": "LIFETIME"
   }
 }
